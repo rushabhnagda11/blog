@@ -19,9 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: gg gn
-author:
-  name: Rushabh Nagda
-  email: rushabhnagda11@gmail.com
+author: Rushabh Nagda
+email: rushabhnagda11@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my blog. I'm going to write stuff here so that I can have a lasting legacy on the internet
 baseurl: "" # the subpath of your site, e.g. /blog
