@@ -12,8 +12,7 @@ Tradaitional SaaS is good at solving strucuted problems. However it cannot handl
 
 Fundamentally there are still 2 (maybe more) problems that are still left to humans - Communication and Decision making.
 
-With the advent of AI and specifically LLMs, these 2 problems move from the real of unstructured to semi structured. 
-
+With the advent of AI and specifically LLMs, these 2 problems become more tractable and maybe a little more structured.
 # How can I be of service?
 
 Imagine all the work we do today as email/slack pushers. 
