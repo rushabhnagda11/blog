@@ -26,6 +26,8 @@ LLMs (with large context lengths and fine tuning) can fundamentally mimic an ind
 
 **We can basically make being a human being an API call**
 
+Imagine the thousand things you do everyday. Most of them will be delegated to your AI via an API call. The things it can't do, it will escalate to you. In such a manner another humans AI will also communicate with your AI like this.
+
 # Next steps?
 
 I plan to act on this thesis. I want to build a slack bot version of myself that can reply to the 50-60 messages I have to get to in a day, allowing me to focus on the work AI cannot do as of today. 
