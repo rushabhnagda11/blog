@@ -22,7 +22,7 @@ We get a message -> We read and understand the message -> We add any additional 
 
 Do you see where we're going? If you had asked anyone if this was something that could be solved with AI about 2-3 years ago by a single person via an API call, they'd call you an insane person.
 
-LLMs (with large context lengths and fine tuning) can fundamentally mimic an individual human being. They can communicate and make decisions in a way that would be very similar to the individual the human is trained on.
+LLMs (with large context lengths and fine tuning) can fundamentally mimic an individual human being. They can communicate and make decisions in a way that would be very similar to the individual the LLM is trained on.
 
 **We can basically make being a human being an API call**
 
