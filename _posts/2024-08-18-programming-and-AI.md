@@ -17,9 +17,9 @@ Basically here were the most basic features that i required
 
 # Demo
 
-The app is hosted on https://rushabhnagda11.github.io/pomodoro-app
+The app is hosted [here] (https://rushabhnagda11.github.io/pomodoro-app)
 
-Feel free to use it and leave any feedback as a PR on the repo at https://github.com/rushabhnagda11/pomodoro-app
+Feel free to use it and leave any feedback as a PR on the [repo] (https://github.com/rushabhnagda11/pomodoro-app)
 
 # Cursor + Claude
 
@@ -33,11 +33,11 @@ Also Cursor + Claude was much better than OpenAI or replit
 
 # The future of the PRD
 
-In the future as AI does more of the heavy lifting, I recon the PRD becomes the most important part of the process. Describing oour requirements and being as descriptive, elaborate and AI friendly as possible will be the key.
+In the future as AI does more of the heavy lifting, I reckon the PRD becomes the most important part of the process. Describing oour requirements and being as descriptive, elaborate and AI friendly as possible will be the key.
 
 Software programming is going to change drastically in the next 2 years and pure AI coded apps are here to stay. This makes knowing frameworks and fundamentals even more important so as to be able to edit and work on auto generated code. It also makes being creative really important and I also assume designer turned engineers are going to be the most sought after jobs. 
 
-#Ending
+# Ending
 
 This blog post is just a rambling of my thoughts. I might get around to making it more coherent and better to read. For now this is all.
 
