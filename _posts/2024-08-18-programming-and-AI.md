@@ -17,9 +17,9 @@ Basically here were the most basic features that i required
 
 # Demo
 
-The app is hosted [here] (https://rushabhnagda11.github.io/pomodoro-app)
+The app is hosted [here](https://rushabhnagda11.github.io/pomodoro-app)
 
-Feel free to use it and leave any feedback as a PR on the [repo] (https://github.com/rushabhnagda11/pomodoro-app)
+Feel free to use it and leave any feedback as a PR on the [repo](https://github.com/rushabhnagda11/pomodoro-app)
 
 # Cursor + Claude
 
